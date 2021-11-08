@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://soboutlook.github.io/csb-ck169/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://soboutlook.github.io/csb-ck169/static/js/main.d85081cb.chunk.js",
+    "main.js.map": "https://soboutlook.github.io/csb-ck169/static/js/main.d85081cb.chunk.js.map",
+    "runtime-main.js": "https://soboutlook.github.io/csb-ck169/static/js/runtime-main.0726b859.js",
+    "runtime-main.js.map": "https://soboutlook.github.io/csb-ck169/static/js/runtime-main.0726b859.js.map",
+    "static/js/2.23032e1c.chunk.js": "https://soboutlook.github.io/csb-ck169/static/js/2.23032e1c.chunk.js",
+    "static/js/2.23032e1c.chunk.js.map": "https://soboutlook.github.io/csb-ck169/static/js/2.23032e1c.chunk.js.map",
+    "index.html": "https://soboutlook.github.io/csb-ck169/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://soboutlook.github.io/csb-ck169/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.23032e1c.chunk.js.LICENSE.txt": "https://soboutlook.github.io/csb-ck169/static/js/2.23032e1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0726b859.js",
+    "static/js/2.23032e1c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.d85081cb.chunk.js"
+  ]
+}
